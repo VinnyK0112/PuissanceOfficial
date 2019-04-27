@@ -184,3 +184,4 @@ MAC = "countries/Macedonia.txt"
 NIR = "countries/Northern Ireland.txt"
 ##########################################
 NFR = "countries/New France.txt"
+DKR = "countries/German Empire.txt"
