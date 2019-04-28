@@ -1,5 +1,8 @@
 ﻿capital = 64
 
+create_faction = Reichspakt
+add_to_faction = DMA
+
 puppet = DMA
 
 #OOB = "ALB_1936"

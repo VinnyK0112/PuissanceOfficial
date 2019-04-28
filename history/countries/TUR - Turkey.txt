@@ -1,5 +1,12 @@
 ﻿capital = 49
 
+create_faction = "Islamic Bloc"
+add_to_faction = TEG
+add_to_faction = SAU
+add_to_faction = PER
+add_to_faction = OMA
+add_to_faction = YEM
+
 puppet = TEG
 
 oob = "TUR_1936"
