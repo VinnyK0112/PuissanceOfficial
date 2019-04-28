@@ -243,8 +243,8 @@
  TUR_fascism_DEF:1 "the Turkish Empire"
  TUR_democratic:0 "Republic of Turkey"
  TUR_democratic_DEF:0 "the Republic of Turkey"
- TUR_neutrality:0 "Turkey"
- TUR_neutrality_DEF:0 "Turkey"
+ TUR_neutrality:0 "Ottoman Empire"
+ TUR_neutrality_DEF:0 "The Ottoman Empire"
  TUR_communism:0 "Turkish Socialist Republic"
  TUR_communism_DEF:0 "the Turkish Socialist Republic"
  TUR_fascism_ADJ:0 "Turkish"
@@ -2210,4 +2210,5 @@
 NFR_fascism:0 "Etat Français"
 DKR_neutrality:0 "Großdeutsches Reich"
 DMA_neutrality:0 "Deustches Mittelafrika"
+TEG_neutrality:0 "Ottoman Egypt"
  
