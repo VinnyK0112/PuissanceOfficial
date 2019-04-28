@@ -187,4 +187,5 @@ NFR = "countries/New France.txt"
 DKR = "countries/German Empire.txt"
 DMA = "countries/Deustches Mittelafrika.txt"
 TEG = "countries/Turkish Egypt.txt"
+THL = "countries/The Holy Land.txt"
 
