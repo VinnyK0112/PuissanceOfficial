@@ -24,7 +24,6 @@ state={
 		}
 		add_core_of = FRA
 		add_core_of = NFR
-		add_claim_of = DKR
 	}
 
 	provinces={
