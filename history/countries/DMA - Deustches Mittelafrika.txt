@@ -1,6 +1,4 @@
-﻿capital = 64
-
-puppet = DMA
+﻿capital = 541
 
 #OOB = "ALB_1936"
 

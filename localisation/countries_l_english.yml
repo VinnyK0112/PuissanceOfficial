@@ -2207,6 +2207,7 @@
  NIR_neutrality_ADJ:1 "Ulster"
  NIR_communism_ADJ:1 "North Irish"
  #########################################
-NFR_fascism:0 "French State"
-DKR_neutrality:0 "German Empire"
+NFR_fascism:0 "Etat Français"
+DKR_neutrality:0 "Großdeutsches Reich"
+DMA_neutrality:0 "Deustches Mittelafrika"
  
