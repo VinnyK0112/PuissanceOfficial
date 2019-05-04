@@ -5,7 +5,7 @@ create_faction = Axis
 #OOB = "ALB_1936"
 
 set_technology = {
-	infantry_weapons = 1
+	infantry_weapons = 2
 	tech_support = 1
 	tech_recon = 1
 }
@@ -39,27 +39,17 @@ set_politics = {
 set_convoys = 200
 
 #Victor Emmanuel III of Italy after 39
-#create_country_leader = {
-#	name = "King Zog"
-#	desc = "POLITICS_KING_ZOG_DESC"
-#	picture = "Portrait_Albania_King_Zog.dds"
-#	expire = "1965.1.1"
-#	ideology = despotism
-#	traits = {
-		#
-#	}
-#}
+create_country_leader = {
+	name = "Jacques Doriot"
+	desc = "POLITICS_jacquesdoriot_DESC"
+	picture = "jacquesdoriot.dds"
+	expire = "1965.1.1"
+	ideology = fascism_ideology
+	traits = {
+		
+	}
+}
 
-#create_country_leader = {
-#	name = "Enver Hoxha"
-#	desc = "POLITICS_KING_ZOG_DESC"
-#	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_2.dds"
-#	expire = "1965.1.1"
-#	ideology = stalinism
-#	traits = {
-#		staunch_stalinist
-#	}
-#}
 
 #create_field_marshal = {
 #	name = "Xhemal Aranitasi"

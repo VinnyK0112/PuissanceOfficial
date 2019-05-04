@@ -1,6 +1,6 @@
 ﻿capital = 454
 
-create_faction "The Holy Bloc"
+create_faction = "The Holy Bloc"
 
 #OOB = "ALB_1936"
 
@@ -35,34 +35,23 @@ set_politics = {
 	
 	ruling_party = christianity
 	last_election = "1933.3.5"
-	election_frequency = 48
+	election_frequency = 0
 	elections_allowed = no
 }
 
 set_convoys = 200
 
 #Victor Emmanuel III of Italy after 39
-#create_country_leader = {
-#	name = "King Zog"
-#	desc = "POLITICS_KING_ZOG_DESC"
-#	picture = "Portrait_Albania_King_Zog.dds"
-#	expire = "1965.1.1"
-#	ideology = despotism
-#	traits = {
-		#
-#	}
-#}
-
-#create_country_leader = {
-#	name = "Enver Hoxha"
-#	desc = "POLITICS_KING_ZOG_DESC"
-#	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_2.dds"
-#	expire = "1965.1.1"
-#	ideology = stalinism
-#	traits = {
-#		staunch_stalinist
-#	}
-#}
+create_country_leader = {
+	name = "Pope Urban II"
+	desc = "POLITICS_POPEURBANII_DESC"
+	picture = "popeurban.dds"
+	expire = "1965.1.1"
+	ideology = "popeist"
+	traits = {
+		
+	}
+}
 
 #create_field_marshal = {
 #	name = "Xhemal Aranitasi"

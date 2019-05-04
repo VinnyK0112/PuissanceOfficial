@@ -1,4 +1,4 @@
-﻿capital = 49
+﻿capital = 341
 
 create_faction = "Islamic Bloc"
 add_to_faction = TEG
@@ -18,14 +18,14 @@ if = {
 	}
 }
 
-set_research_slots = 3
+set_research_slots = 4
 
 add_ideas = {
 	limited_conscription
 }
 
 set_technology = {
-	infantry_weapons = 1
+	infantry_weapons = 2
 	infantry_weapons1 = 1
 	tech_mountaineers = 1
 	gw_artillery = 1
